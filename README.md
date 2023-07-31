@@ -1,4 +1,4 @@
-# Intelligent Finder Workflow for Alfred
+# Genius Finder Workflow for Alfred
 
 ## Overview
 
@@ -11,9 +11,8 @@ This workflow for Alfred smartly calls Finder on macOS. If Finder is already ope
 
 ## Installation
 
-1. Download the `.alfredworkflow` file.
-2. Double-click the file to import it into Alfred.
-3. Ensure yabai is installed and running on your system.
+1. Double-click the file to import it into Alfred.
+2. Ensure yabai is installed and running on your system.
 
 ## Usage
 
